@@ -1,0 +1,5 @@
+name: SimpleMute
+version: '${project.version}'
+main: net.sci.simplemute.SimpleMute
+api-version: '1.19'
+load: STARTUP
