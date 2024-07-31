@@ -8,6 +8,8 @@ public final class SimpleMute extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
 
+        System.out.println("The plugin is enabled.");
+
     }
 
     @Override
